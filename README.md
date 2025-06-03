@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Suresh</h1>
-<h3 align="center">A passionate Bca student from India , i am a front-end developer who enjoys buildig responsive and user-friendly websites and applications.</h3>
+<h3 align="center">Frontend | Cybersecurity | Ethical Hacking  
+Building. Breaking. Securing.  
+Learner. Creator. Problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksha-yyyy&label=Profile%20views&color=0e75b6&style=flat" alt="aksha-yyyy" /> </p>
 
